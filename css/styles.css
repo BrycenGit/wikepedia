@@ -11,7 +11,16 @@
   width:100%;
   border: solid black;
   border-width: 1px;
-  background-color:lightgreen;
+  background-color:rgb(169, 240, 169);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box3 {
+  width:100%;
+  border: solid black;
+  border-width: 1px;
+  background-color:rgb(153, 216, 255);
   margin-bottom: 10px;
   box-sizing: border-box;
 }
@@ -20,7 +29,7 @@
   width:100%;
   border: solid black;
   border-width: 1px;
-  background-color: rgb(240, 100, 182);
+  background-color: rgb(252, 151, 210);
   margin-bottom: 10px;
   box-sizing: border-box;
 }
