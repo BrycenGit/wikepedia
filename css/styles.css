@@ -1,8 +1,27 @@
 .box1 {
-  width: 50%;
+  width:100%;
   border: solid black;
   border-width: 1px;
-  background-color: orange;
+  background-color: rgb(187, 187, 187);
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+
+.box2 {
+  width:100%;
+  border: solid black;
+  border-width: 1px;
+  background-color:lightgreen;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box4 {
+  width:100%;
+  border: solid black;
+  border-width: 1px;
+  background-color: rgb(240, 100, 182);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
